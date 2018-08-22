@@ -6,8 +6,8 @@ catetories: github
 ---
 
 ***本地配置jekyll***
-1. macos 或 linux 参考 [installation][https://jekyllrb.com/docs/installation/]
-2. window 安装 参考 [jekyll on windows][https://jekyllrb.com/docs/windows/]  
+1. macos 或 linux 参考 [installation](https://jekyllrb.com/docs/installation/)
+2. window 安装 参考 [jekyll on windows](https://jekyllrb.com/docs/windows/)
 
 ***生成博客***
 1. 首先创建github账号，并登录github

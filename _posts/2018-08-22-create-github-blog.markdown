@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: "create github blog"
 date: 2018-08-22 16:17:22 +0800
-catetories: github
+categories: [github]
 ---
 
 ***本地配置jekyll***

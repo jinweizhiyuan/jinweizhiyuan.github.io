@@ -1,0 +1,17 @@
+<!-- gittalk评论 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script>
+  var gitalk = new Gitalk({
+    clientID: '259df56bfe3f4daca614',
+    clientSecret: 'b8701b364695cf410d6f51fc6be129177101c6d2',
+    repo: 'jinweizhiyuan.github.io',
+    owner: 'gitalk',
+    admin: ['jinweizhiyuan'],
+    id: location.pathname, // Ensure uniqueness and length less than 50
+    distractionFreeMode: true // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+</script>

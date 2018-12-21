@@ -6,7 +6,7 @@ category: [front-end]
 ---
 
 最近有人问我怎么提取项目中所有源文件的汉字，给出一个参考[网址](https://blog.csdn.net/barrydiu/article/details/2414717)，看了一下，借助的是wscript宿主脚本，可行然后调试修改了一下，代码如下：
-{% highlight javascript %}
+    {% highlight javascript lineno %}
     /**
     * @Author : Barry Diu  2008-05-08
     * 找出目录下的php,js,htm文件中的中文字符的位置
@@ -168,4 +168,4 @@ category: [front-end]
         }
         return extname.toLowerCase();
     }
-{% endhighlight %}
+    {% endhighlight %}

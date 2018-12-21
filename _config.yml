@@ -24,6 +24,9 @@ github_username:  jinweizhiyuan
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter : rouge
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed

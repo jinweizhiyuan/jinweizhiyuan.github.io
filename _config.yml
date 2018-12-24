@@ -24,7 +24,7 @@ github_username:  jinweizhiyuan
 
 # resolve "The tag `highlight` on line 12 in `*.markdown/#excerpt`was not properly closed"
 repository: jinweizhiyuan/jinweizhiyuan.github.io
-excerpt_separator: ""
+excerpt_separator: "\n"
 
 # Build settings
 markdown: kramdown

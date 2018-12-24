@@ -22,6 +22,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jinweizhiyuan
 
+# resolve "The tag `highlight` on line 12 in `*.markdown/#excerpt`was not properly closed"
+repository: jinweizhiyuan/jinweizhiyuan.github.io
+excerpt_separator: ""
+
 # Build settings
 markdown: kramdown
 highlighter: rouge

@@ -32,9 +32,10 @@ highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter : rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+  # syntax_highlighter_opts:
+  #   block:
+  #     line_numbers: true
+  # fenced code blocks 是markdown语法
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed

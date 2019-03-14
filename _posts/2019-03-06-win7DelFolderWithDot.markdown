@@ -1,6 +1,6 @@
 ---
 layout: 'post'
-title: 'win7 删除以点结尾的文件夹名时，提示找不到文件'
+title: 'win7 删除以点结尾的文件夹名时提示找不到文件'
 date: 2019-03-06 9:45:50 +UTC800
 categories: [windows]
 ---

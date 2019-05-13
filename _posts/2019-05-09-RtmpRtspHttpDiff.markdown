@@ -19,8 +19,8 @@ __共同点：__
 1. RTSP RTMP HTTP都是在应用应用层。
 2. 理论上RTSP RTMPHTTP都可以做直播和点播，但一般做直播用RTSP RTMP，做点播用HTTP。做视频会议的时候原来用SIP协议，现在基本上被RTMP协议取代了
 
-![示意](/assets/images/20190509001.jpg)
-
+![示意](/assets/images/20190509001.jpg){:width="100%"}
+121
 **区别：**
 1. HTTP: 即超文本传送协议(ftp即文件传输协议)。
       HTTP:（Real Time Streaming Protocol），实时流传输协议。
